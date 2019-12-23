@@ -1,6 +1,6 @@
 # DiscreteMaths
 CourseWork for Discrete Mathematics</br>
-The file titled CourseWork is the write up for the Coursework.</br>
+The write up will be uploaded to this branch when the coursework has been marked</br>
 The file titled linear programming problem.ipynb is an anaconda notebook that i used to run all of the python scripts i have made.</br>
 # LPP
 The file titled lpp.py is the program i used to build the linear programming graphs of each individual edge in the tree.</br>
