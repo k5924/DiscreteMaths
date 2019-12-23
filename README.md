@@ -7,4 +7,4 @@ The file titled lpp.py is the program i used to build the linear programming gra
 # Graph Theory
 The file titled dijkstra's algo.py is the algorithm used in the graph theory section</br>
 # Statistics
-the basic information files and the pdf files with the csv's are used in this section for the boxplots, gaussian distributions and the probability density functions
+The basic information files and the pdf files with the csv's are used in this section for the boxplots, gaussian distributions and the probability density functions
