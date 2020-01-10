@@ -33,7 +33,7 @@ with open('cartesian file.csv', encoding='utf-8-sig') as file:
         for value in row:
             if count == 0:
                 if value != '':
-                    if value == '105':
+                    if value == '118':
                         count += 1
                     list1.append(int(value))
             else:
